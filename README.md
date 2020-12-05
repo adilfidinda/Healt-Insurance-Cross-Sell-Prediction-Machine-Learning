@@ -6,3 +6,6 @@ Health insurance companies that provide health insurance for their customers wan
 ## Goals
 Build a model to predict the potential customers that will be interested in vehicle insurance. This can help the company to be able to develop a communication strategy with customers who might be interested
 
+## Exploratory Data Analysis
+
+
