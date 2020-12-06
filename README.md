@@ -69,3 +69,5 @@ Build a model to predict the potential customers that will be interested in vehi
     - Customer who associated with this company between 100 - more than 200 months
     
  - Targeting millennials customers because they should be considered a first step in a long relationship
+ 
+ ## Machine Learning
