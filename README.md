@@ -60,3 +60,12 @@ Build a model to predict the potential customers that will be interested in vehi
 
 - Customers who associated with a company in 100 - 200 months are more potential to response yes
 
+## Recommendation
+- Targeting customers who :
+    - don't have vehicle insurance before but have driving license
+    - Adult and Eldery 1
+    - Experienced damage because they will be more preserving their assets
+    - Low to medium premium customers because of their income makes them more entrusted with insurance so they no longer need to worry about thinking the amount of costs to be borne, because the insurance company will cover it based on the applicable policy
+    - Customer who associated with this company between 100 - more than 200 months
+    
+ - Targeting millennials customers because they should be considered a first step in a long relationship
