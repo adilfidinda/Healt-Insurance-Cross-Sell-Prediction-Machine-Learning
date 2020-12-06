@@ -71,3 +71,6 @@ Build a model to predict the potential customers that will be interested in vehi
  - Targeting millennials customers because they should be considered a first step in a long relationship
  
  ## Machine Learning
+![alt text](images/evaluation_matrix.JPG)
+
+In this project, number of False Negative (FN) is need to be concern because of people who are actually attracted are predicted not, the risk is missed opportunities. So, it will focus on FN as low as possible. Even though the FP value is high, this can at least attract some customers to buy the policy even though the costs and efforts incurred are also greater.
